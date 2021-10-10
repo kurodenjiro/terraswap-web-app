@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/terraswap-web-app/precache-manifest.8a9b51938b2f3d3323af6939e1dff1b0.js"
+  "/terraswap-web-app/precache-manifest.2f1b73f0a54586824d885cea20d0a063.js"
 );
 
 self.addEventListener('message', (event) => {

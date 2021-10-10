@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/terraswap-web-app/static/css/main.8795f946.chunk.css",
-    "main.js": "/terraswap-web-app/static/js/main.787f28e0.chunk.js",
-    "main.js.map": "/terraswap-web-app/static/js/main.787f28e0.chunk.js.map",
+    "main.js": "/terraswap-web-app/static/js/main.320acb53.chunk.js",
+    "main.js.map": "/terraswap-web-app/static/js/main.320acb53.chunk.js.map",
     "runtime-main.js": "/terraswap-web-app/static/js/runtime-main.bd3bf0f9.js",
     "runtime-main.js.map": "/terraswap-web-app/static/js/runtime-main.bd3bf0f9.js.map",
     "static/css/2.07f7c360.chunk.css": "/terraswap-web-app/static/css/2.07f7c360.chunk.css",
-    "static/js/2.c2eb71b5.chunk.js": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js",
-    "static/js/2.c2eb71b5.chunk.js.map": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js.map",
+    "static/js/2.0cf0a60f.chunk.js": "/terraswap-web-app/static/js/2.0cf0a60f.chunk.js",
+    "static/js/2.0cf0a60f.chunk.js.map": "/terraswap-web-app/static/js/2.0cf0a60f.chunk.js.map",
     "index.html": "/terraswap-web-app/index.html",
-    "precache-manifest.8a9b51938b2f3d3323af6939e1dff1b0.js": "/terraswap-web-app/precache-manifest.8a9b51938b2f3d3323af6939e1dff1b0.js",
+    "precache-manifest.2f1b73f0a54586824d885cea20d0a063.js": "/terraswap-web-app/precache-manifest.2f1b73f0a54586824d885cea20d0a063.js",
     "service-worker.js": "/terraswap-web-app/service-worker.js",
     "static/css/2.07f7c360.chunk.css.map": "/terraswap-web-app/static/css/2.07f7c360.chunk.css.map",
     "static/css/main.8795f946.chunk.css.map": "/terraswap-web-app/static/css/main.8795f946.chunk.css.map",
-    "static/js/2.c2eb71b5.chunk.js.LICENSE.txt": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js.LICENSE.txt",
+    "static/js/2.0cf0a60f.chunk.js.LICENSE.txt": "/terraswap-web-app/static/js/2.0cf0a60f.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/terraswap-web-app/static/media/BackgroundPattern.3952139e.svg",
     "static/media/DelightLogo.faa30f30.svg": "/terraswap-web-app/static/media/DelightLogo.faa30f30.svg",
     "static/media/KST.svg": "/terraswap-web-app/static/media/KST.05d11efa.svg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.bd3bf0f9.js",
     "static/css/2.07f7c360.chunk.css",
-    "static/js/2.c2eb71b5.chunk.js",
+    "static/js/2.0cf0a60f.chunk.js",
     "static/css/main.8795f946.chunk.css",
-    "static/js/main.787f28e0.chunk.js"
+    "static/js/main.320acb53.chunk.js"
   ]
 }
