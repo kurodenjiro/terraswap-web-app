@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/terraswap-web-app/static/css/main.8795f946.chunk.css",
-    "main.js": "/terraswap-web-app/static/js/main.01dfef3e.chunk.js",
-    "main.js.map": "/terraswap-web-app/static/js/main.01dfef3e.chunk.js.map",
+    "main.js": "/terraswap-web-app/static/js/main.787f28e0.chunk.js",
+    "main.js.map": "/terraswap-web-app/static/js/main.787f28e0.chunk.js.map",
     "runtime-main.js": "/terraswap-web-app/static/js/runtime-main.bd3bf0f9.js",
     "runtime-main.js.map": "/terraswap-web-app/static/js/runtime-main.bd3bf0f9.js.map",
     "static/css/2.07f7c360.chunk.css": "/terraswap-web-app/static/css/2.07f7c360.chunk.css",
     "static/js/2.c2eb71b5.chunk.js": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js",
     "static/js/2.c2eb71b5.chunk.js.map": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js.map",
     "index.html": "/terraswap-web-app/index.html",
-    "precache-manifest.69301a63bf47dbbff6bc85d92debf8b2.js": "/terraswap-web-app/precache-manifest.69301a63bf47dbbff6bc85d92debf8b2.js",
+    "precache-manifest.8a9b51938b2f3d3323af6939e1dff1b0.js": "/terraswap-web-app/precache-manifest.8a9b51938b2f3d3323af6939e1dff1b0.js",
     "service-worker.js": "/terraswap-web-app/service-worker.js",
     "static/css/2.07f7c360.chunk.css.map": "/terraswap-web-app/static/css/2.07f7c360.chunk.css.map",
     "static/css/main.8795f946.chunk.css.map": "/terraswap-web-app/static/css/main.8795f946.chunk.css.map",
@@ -35,6 +35,6 @@
     "static/css/2.07f7c360.chunk.css",
     "static/js/2.c2eb71b5.chunk.js",
     "static/css/main.8795f946.chunk.css",
-    "static/js/main.01dfef3e.chunk.js"
+    "static/js/main.787f28e0.chunk.js"
   ]
 }

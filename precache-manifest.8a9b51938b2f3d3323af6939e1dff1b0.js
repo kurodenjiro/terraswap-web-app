@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad4c287228b8ca8d0800c88514c6e40e",
+    "revision": "214e10ea519706c3c5209aed76caf298",
     "url": "/terraswap-web-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terraswap-web-app/static/css/2.07f7c360.chunk.css"
   },
   {
-    "revision": "aa890a2403f6bd2f1b11",
+    "revision": "90f449b2ef511ead463b",
     "url": "/terraswap-web-app/static/css/main.8795f946.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa890a2403f6bd2f1b11",
-    "url": "/terraswap-web-app/static/js/main.01dfef3e.chunk.js"
+    "revision": "90f449b2ef511ead463b",
+    "url": "/terraswap-web-app/static/js/main.787f28e0.chunk.js"
   },
   {
     "revision": "0c350ecb0d3ba09f6f49",
