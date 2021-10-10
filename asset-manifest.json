@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/terraswap-web-app/static/css/main.8795f946.chunk.css",
+    "main.js": "/terraswap-web-app/static/js/main.01dfef3e.chunk.js",
+    "main.js.map": "/terraswap-web-app/static/js/main.01dfef3e.chunk.js.map",
+    "runtime-main.js": "/terraswap-web-app/static/js/runtime-main.bd3bf0f9.js",
+    "runtime-main.js.map": "/terraswap-web-app/static/js/runtime-main.bd3bf0f9.js.map",
+    "static/css/2.07f7c360.chunk.css": "/terraswap-web-app/static/css/2.07f7c360.chunk.css",
+    "static/js/2.c2eb71b5.chunk.js": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js",
+    "static/js/2.c2eb71b5.chunk.js.map": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js.map",
+    "index.html": "/terraswap-web-app/index.html",
+    "precache-manifest.69301a63bf47dbbff6bc85d92debf8b2.js": "/terraswap-web-app/precache-manifest.69301a63bf47dbbff6bc85d92debf8b2.js",
+    "service-worker.js": "/terraswap-web-app/service-worker.js",
+    "static/css/2.07f7c360.chunk.css.map": "/terraswap-web-app/static/css/2.07f7c360.chunk.css.map",
+    "static/css/main.8795f946.chunk.css.map": "/terraswap-web-app/static/css/main.8795f946.chunk.css.map",
+    "static/js/2.c2eb71b5.chunk.js.LICENSE.txt": "/terraswap-web-app/static/js/2.c2eb71b5.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/terraswap-web-app/static/media/BackgroundPattern.3952139e.svg",
+    "static/media/DelightLogo.faa30f30.svg": "/terraswap-web-app/static/media/DelightLogo.faa30f30.svg",
+    "static/media/KST.svg": "/terraswap-web-app/static/media/KST.05d11efa.svg",
+    "static/media/Luna.svg": "/terraswap-web-app/static/media/Luna.16af90f7.svg",
+    "static/media/MNT.svg": "/terraswap-web-app/static/media/MNT.3783ed48.svg",
+    "static/media/SwapFooter.module.scss": "/terraswap-web-app/static/media/RadioBtnOn.e2ce8ce6.svg",
+    "static/media/SDT.svg": "/terraswap-web-app/static/media/SDT.ed5609ad.svg",
+    "static/media/Terra.0d8bf1c9.svg": "/terraswap-web-app/static/media/Terra.0d8bf1c9.svg",
+    "static/media/TerraswapLogo.f16dd37b.svg": "/terraswap-web-app/static/media/TerraswapLogo.f16dd37b.svg",
+    "static/media/Token.svg": "/terraswap-web-app/static/media/Token.65b0a241.svg",
+    "static/media/UST.svg": "/terraswap-web-app/static/media/UST.6d898e97.svg",
+    "static/media/arrow.svg": "/terraswap-web-app/static/media/arrow.5c86c034.svg",
+    "static/media/icon-reload.svg": "/terraswap-web-app/static/media/icon-reload.f31251b2.svg",
+    "static/media/icon-settings.svg": "/terraswap-web-app/static/media/icon-settings.9e2cbe99.svg",
+    "static/media/plus.svg": "/terraswap-web-app/static/media/plus.5db9537d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3bf0f9.js",
+    "static/css/2.07f7c360.chunk.css",
+    "static/js/2.c2eb71b5.chunk.js",
+    "static/css/main.8795f946.chunk.css",
+    "static/js/main.01dfef3e.chunk.js"
+  ]
+}
